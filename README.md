@@ -1,5 +1,8 @@
-# usdk price gnome ticket 
+# usdk gnome price ticker
 
-Gnome 3 desktop ticker for usdk price with Python and argos. Rename to usdk.1r.60s.py and put in ~/.config/argos
+Get usdk price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/usdk-price-gnome-ticket/](https://codesharedot.github.io/usdk-price-gnome-ticket/)
 
-https://pythonbasics.org
+usdk price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to usdk.1r60s.py and put in ~/.config/argos
